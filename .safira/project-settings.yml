@@ -1,0 +1,8 @@
+project:
+  name: app-demo-rj
+  description: app-demo-rj
+  java:
+    package: codes.platform.demo
+  language: java
+  framework: springboot
+  applicationPort: 8080

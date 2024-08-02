@@ -1,0 +1,8 @@
+site_name: "app-demo-rj"
+site_description: "app-demo-rj"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
